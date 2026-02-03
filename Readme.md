@@ -6,8 +6,5 @@ I'm a developer passionate about building great software and sharing my work wit
 
 🌐 **Portfolio**: [www.bgaspar.dev](https://www.bgaspar.dev)
 
-## 📫 Get in Touch
-
----
 
 ⭐️ From [bzgaspar](https://github.com/bzgaspar)
